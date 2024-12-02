@@ -27,6 +27,24 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://172.105.123.238:18002/play/a011
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Pictures HD
 https://la.drmlive.au/tp/zee-pictures.m3u8
+#EXTINF:-1 tvg-id="StarGold.in" tvg-logo="https://i.imgur.com/xC460sj.png" group-title="Hindi Movies" user-agent="stream",Star Gold HD (1080p)
+#EXTVLCOPT:http-user-agent=stream
+http://103.81.104.118/hls/stream19.m3u8
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="Hindi Movies",B4U Kadak (576p) [Not 24/7]
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 tvg-id="B4UMoviesIndia.in" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Hindi Movies",B4U Movies India (576p)
+http://183.89.246.119:8881/play/a08n/index.m3u8
+#EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Hindi Movies",Bollywood HD (1080p)
+https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
+#EXTINF:-1 tvg-id="Dhinchaak.in" tvg-logo="https://i.imgur.com/oqqChlH.png" group-title="Hindi Movies",Dhinchaak (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0o5/index.m3u8
+#EXTINF:-1 tvg-id="Filmeraa.in" tvg-logo="https://i.ibb.co/p4BwH0x/images-5.png" group-title="Hindi Movies",Filmeraa (720p)
+https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
+#EXTINF:-1 tvg-id="MahaMovie.in" tvg-logo="https://i.imgur.com/hpShFDL.png" group-title="Hindi Movies",Maha Movie (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0q7/index.m3u8
+#EXTINF:-1 tvg-id="StarGold.in" tvg-logo="https://i.imgur.com/xC460sj.png" group-title="Hindi Movies" user-agent="stream",Star Gold HD (1080p)
+#EXTVLCOPT:http-user-agent=stream
+http://103.81.104.118/hls/stream19.m3u8
 
 # TV Channels
 
@@ -68,6 +86,10 @@ https://jmp2.uk/sam-INBD13000043W.m3u8
 https://jmp2.uk/sam-IN2700003S1.m3u8
 #EXTINF:-1 channel-id="samsung-INBA4900009BL" tvg-id="INBA4900009BL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900009BL_20220824T022303SQUARE.png_20220824022303.png" group-title="Hindi Entertainment" tvg-chno="1137",Real Stories
 https://jmp2.uk/sam-INBA4900009BL.m3u8
+#EXTINF:-1 tvg-id="Zing.in" tvg-logo="https://i.imgur.com/zStK8g2.png" group-title="Hindi Entertainment",Zing! (576p)
+http://183.89.246.119:8881/play/a09a/index.m3u8
+#EXTINF:-1 tvg-id="Zoom.in" tvg-logo="https://i.imgur.com/kcDJ4g0.png" group-title="Hindi Entertainment",Zoom (1080p)
+http://103.81.104.118/hls/stream8.m3u8
 
 ## Hollywood
 
