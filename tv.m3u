@@ -31,11 +31,11 @@ https://la.drmlive.au/tp/zee-pictures.m3u8
 https://la.drmlive.au/tp/zee-zeecinema.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Colors CINEPLEX
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6592/index.m3u8
-#EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/ZeeAction.png" group-title="Hindi MOVIE",ZEE ACTION HD
+#EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/ZeeAction.png" group-title="Hindi Movies",ZEE ACTION HD
 https://la.drmlive.au/tp/zee-zeeaction.m3u8
-#EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/ZeeAnmolcinema.png" group-title="Hindi MOVIE",ZEE ANMOL CINEMA
+#EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/ZeeAnmolcinema.png" group-title="Hindi Movies",ZEE ANMOL CINEMA
 https://la.drmlive.au/tp/zee-zeeanmolcinema.m3u8
-#EXTINF:-1 group-title="Hindi MOVIE",Zee Action
+#EXTINF:-1 group-title="Hindi Movies",Zee Action
 https://la.drmlive.au/tp/zee-zeeaction.m3u8
 #EXTINF:-1 tvg-name="SETMAX HD" tvg-logo="https://sunplex.net/iptv/logo/set-max-hd.jpg" group-title="Hindi Movies",SONY MAX HD
 http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
@@ -48,11 +48,7 @@ https://la.drmlive.au/tp/zee-348.m3u8
 
 #EXTINF:-1 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="Hindi Entertainment",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="ANDTV HD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="Hindi Entertainment",ANDTV HD
-https://webott.viatv.com.np/v0t1/AndtvHD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="COLORS SD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="Hindi Entertainment",COLORS SD
-http://stvlive.net:8080/colorshd/index.m3u8
 #EXTINF:-1 tvg-name="Colors HD" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="Hindi Entertainment",Colors HD
 http://port.yuvraj49.xyz/jc-colors-hd/video.m3u8?token=4dv7J9pr60BQ63
 
