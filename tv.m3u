@@ -91,7 +91,7 @@ http://103.81.104.118/hls/stream8.m3u8
 
 ## Hollywood
 
-#EXTINF:-1 tvg-logo="" group-title="English Movies" group-title="",HBO
+#EXTINF:-1 tvg-logo="" group-title="English Movies",HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" group-title="English Movies",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
