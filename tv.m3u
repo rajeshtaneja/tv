@@ -46,43 +46,43 @@ http://103.81.104.118/hls/stream19.m3u8
 
 # TV Channels
 
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="",Sony Kal
+#EXTINF:-1 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="Hindi Entertainment",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png" group-title="Hindi Entertainment",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
-#EXTINF:-1 channel-id="samsung-INBD4700006JD" tvg-id="INBD4700006JD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700006JD_20241024T054052SQUARE.png" group-title="Hindi Entertainment" tvg-chno="1002",Comedy King
+#EXTINF:-1 channel-id="samsung-INBD4700006JD" tvg-id="INBD4700006JD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700006JD_20241024T054052SQUARE.png" group-title="Hindi Entertainment",Comedy King
 https://jmp2.uk/sam-INBD4700006JD.m3u8
-#EXTINF:-1 channel-id="samsung-IN2600013B3" tvg-id="IN2600013B3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600013B3_20240925T102252SQUARE.png" group-title="Hindi Entertainment" tvg-chno="1113",Fully Faltoo
+#EXTINF:-1 channel-id="samsung-IN2600013B3" tvg-id="IN2600013B3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600013B3_20240925T102252SQUARE.png" group-title="Hindi Entertainment",Fully Faltoo
 https://jmp2.uk/sam-IN2600013B3.m3u8
-#EXTINF:-1 channel-id="samsung-INBC4300008IH" tvg-id="INBC4300008IH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300008IH_20241113T015622SQUARE.png" group-title="Hindi Entertainment" tvg-chno="1114",Korean TV
+#EXTINF:-1 channel-id="samsung-INBC4300008IH" tvg-id="INBC4300008IH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300008IH_20241113T015622SQUARE.png" group-title="Hindi Entertainment",Korean TV
 https://jmp2.uk/sam-INBC4300008IH.m3u8
-#EXTINF:-1 channel-id="samsung-IN1700011V7" tvg-id="IN1700011V7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700011V7_20241024T054054SQUARE.png" group-title="Hindi Entertainment" tvg-chno="1115",Nazara
+#EXTINF:-1 channel-id="samsung-IN1700011V7" tvg-id="IN1700011V7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700011V7_20241024T054054SQUARE.png" group-title="Hindi Entertainment",Nazara
 https://jmp2.uk/sam-IN1700011V7.m3u8
-#EXTINF:-1 channel-id="samsung-IN2600015OO" tvg-id="IN2600015OO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600015OO_20240912T093637SQUARE.png" group-title="Hindi Entertainment" tvg-chno="1116",Crime Tak
+#EXTINF:-1 channel-id="samsung-IN2600015OO" tvg-id="IN2600015OO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600015OO_20240912T093637SQUARE.png" group-title="Hindi Entertainment",Crime Tak
 https://jmp2.uk/sam-IN2600015OO.m3u8
-#EXTINF:-1 channel-id="samsung-INBA4900028KJ" tvg-id="INBA4900028KJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900028KJ_20220427T054642SQUARE.png_20220427054643.png" group-title="Hindi Entertainment" tvg-chno="1117",Real Crime
+#EXTINF:-1 channel-id="samsung-INBA4900028KJ" tvg-id="INBA4900028KJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900028KJ_20220427T054642SQUARE.png_20220427054643.png" group-title="Hindi Entertainment",Real Crime
 https://jmp2.uk/sam-INBA4900028KJ.m3u8
-#EXTINF:-1 channel-id="samsung-IN3800002VK" tvg-id="IN3800002VK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800002VK_20240925T012645SQUARE.png" group-title="Hindi Entertainment" tvg-chno="1118",The Lallantop
+#EXTINF:-1 channel-id="samsung-IN3800002VK" tvg-id="IN3800002VK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800002VK_20240925T012645SQUARE.png" group-title="Hindi Entertainment",The Lallantop
 https://jmp2.uk/sam-IN3800002VK.m3u8
-#EXTINF:-1 channel-id="samsung-IN3900002KB" tvg-id="IN3900002KB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900002KB_20241113T015618SQUARE.png" group-title="Hindi Entertainment" tvg-chno="1119",E24
+#EXTINF:-1 channel-id="samsung-IN3900002KB" tvg-id="IN3900002KB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900002KB_20241113T015618SQUARE.png" group-title="Hindi Entertainment",E24
 https://jmp2.uk/sam-IN3900002KB.m3u8
-#EXTINF:-1 channel-id="samsung-IN2600020H9" tvg-id="IN2600020H9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600020H9_20240911T003806SQUARE.png" group-title="Hindi Entertainment" tvg-chno="1120",India TV Aap ki Adalat
+#EXTINF:-1 channel-id="samsung-IN2600020H9" tvg-id="IN2600020H9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600020H9_20240911T003806SQUARE.png" group-title="Hindi Entertainment",India TV Aap ki Adalat
 https://jmp2.uk/sam-IN2600020H9.m3u8
-#EXTINF:-1 channel-id="samsung-INBD47000014D" tvg-id="INBD47000014D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000014D_20240214T030802SQUARE.png_20240214030803.png" group-title="Hindi Entertainment" tvg-chno="1121",The Q
+#EXTINF:-1 channel-id="samsung-INBD47000014D" tvg-id="INBD47000014D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000014D_20240214T030802SQUARE.png_20240214030803.png" group-title="Hindi Entertainment",The Q
 https://jmp2.uk/sam-INBD47000014D.m3u8
-#EXTINF:-1 channel-id="samsung-IN26000147D" tvg-id="IN26000147D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000147D_20241113T015616SQUARE.png" group-title="Hindi Entertainment" tvg-chno="1123",Colors Infinity Lite
+#EXTINF:-1 channel-id="samsung-IN26000147D" tvg-id="IN26000147D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000147D_20241113T015616SQUARE.png" group-title="Hindi Entertainment",Colors Infinity Lite
 https://jmp2.uk/sam-IN26000147D.m3u8
-#EXTINF:-1 channel-id="samsung-IN1600001OG" tvg-id="IN1600001OG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600001OG_20240612T015018SQUARE.png" group-title="Hindi Entertainment" tvg-chno="1125",Pitaara Comedy
+#EXTINF:-1 channel-id="samsung-IN1600001OG" tvg-id="IN1600001OG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600001OG_20240612T015018SQUARE.png" group-title="Hindi Entertainment",Pitaara Comedy
 https://jmp2.uk/sam-IN1600001OG.m3u8
-#EXTINF:-1 channel-id="samsung-INBA5100030AO" tvg-id="INBA5100030AO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100030AO_20220427T054551SQUARE.png_20220427054552.png" group-title="Hindi Entertainment" tvg-chno="1129",FailArmy
+#EXTINF:-1 channel-id="samsung-INBA5100030AO" tvg-id="INBA5100030AO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100030AO_20220427T054551SQUARE.png_20220427054552.png" group-title="Hindi Entertainment",FailArmy
 https://jmp2.uk/sam-INBA5100030AO.m3u8
-#EXTINF:-1 channel-id="samsung-INBA5100029JI" tvg-id="INBA5100029JI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100029JI_20220427T054705SQUARE.png_20220427054706.png" group-title="Hindi Entertainment" tvg-chno="1131",The Pet Collective
+#EXTINF:-1 channel-id="samsung-INBA5100029JI" tvg-id="INBA5100029JI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100029JI_20220427T054705SQUARE.png_20220427054706.png" group-title="Hindi Entertainment",The Pet Collective
 https://jmp2.uk/sam-INBA5100029JI.m3u8
-#EXTINF:-1 channel-id="samsung-INBD13000043W" tvg-id="INBD13000043W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000043W_20241023T011741SQUARE.png" group-title="Hindi Entertainment" tvg-chno="1132",Animax
+#EXTINF:-1 channel-id="samsung-INBD13000043W" tvg-id="INBD13000043W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000043W_20241023T011741SQUARE.png" group-title="Hindi Entertainment",Animax
 https://jmp2.uk/sam-INBD13000043W.m3u8
-#EXTINF:-1 channel-id="samsung-IN2700003S1" tvg-id="IN2700003S1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2700003S1_20241016T011405SQUARE.png" group-title="Hindi Entertainment" tvg-chno="1133",Nosey
+#EXTINF:-1 channel-id="samsung-IN2700003S1" tvg-id="IN2700003S1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2700003S1_20241016T011405SQUARE.png" group-title="Hindi Entertainment",Nosey
 https://jmp2.uk/sam-IN2700003S1.m3u8
-#EXTINF:-1 channel-id="samsung-INBA4900009BL" tvg-id="INBA4900009BL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900009BL_20220824T022303SQUARE.png_20220824022303.png" group-title="Hindi Entertainment" tvg-chno="1137",Real Stories
+#EXTINF:-1 channel-id="samsung-INBA4900009BL" tvg-id="INBA4900009BL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900009BL_20220824T022303SQUARE.png_20220824022303.png" group-title="Hindi Entertainment",Real Stories
 https://jmp2.uk/sam-INBA4900009BL.m3u8
 #EXTINF:-1 tvg-id="Zing.in" tvg-logo="https://i.imgur.com/zStK8g2.png" group-title="Hindi Entertainment",Zing! (576p)
 http://183.89.246.119:8881/play/a09a/index.m3u8
@@ -93,29 +93,29 @@ http://103.81.104.118/hls/stream8.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies" group-title="",HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg"group-title="English Movies" group-title="",Action Hollywood Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" group-title="English Movies",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 channel-id="samsung-INBA5100027U2" tvg-id="INBA5100027U2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100027U2_20220427T054556SQUARE.png_20220427054557.png" group-title="Hindi Movies" tvg-chno="1323",Film Stream
+#EXTINF:-1 channel-id="samsung-INBA5100027U2" tvg-id="INBA5100027U2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100027U2_20220427T054556SQUARE.png_20220427054557.png" group-title="English Movies",Film Stream
 https://jmp2.uk/sam-INBA5100027U2.m3u8
-#EXTINF:-1 channel-id="samsung-USBD270001633" tvg-id="USBD270001633" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20241119T020358SQUARE.png" group-title="Movies" tvg-chno="1220",Hallmark Holiday Favorites
+#EXTINF:-1 channel-id="samsung-USBD270001633" tvg-id="USBD270001633" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20241119T020358SQUARE.png" group-title="English Movies",Hallmark Holiday Favorites
 https://jmp2.uk/sam-USBD270001633.m3u8
-#EXTINF:-1 channel-id="samsung-USBB5200019FO" tvg-id="USBB5200019FO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20241105T024231SQUARE.png" group-title="Movies" tvg-chno="1225",Holiday Movie Favorites By Lifetime
+#EXTINF:-1 channel-id="samsung-USBB5200019FO" tvg-id="USBB5200019FO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20241105T024231SQUARE.png" group-title="English Movies",Holiday Movie Favorites By Lifetime
 https://jmp2.uk/sam-USBB5200019FO.m3u8
-#EXTINF:-1 channel-id="samsung-USBD17000117B" tvg-id="USBD17000117B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000117B_20241105T024212SQUARE.png" group-title="Movies" tvg-chno="1230",MovieSphere
+#EXTINF:-1 channel-id="samsung-USBD17000117B" tvg-id="USBD17000117B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000117B_20241105T024212SQUARE.png" group-title="English Movies",MovieSphere
 https://jmp2.uk/sam-USBD17000117B.m3u8
-#EXTINF:-1 channel-id="samsung-USBA300017PK" tvg-id="USBA300017PK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300017PK_20241112T000721SQUARE.png" group-title="Movies" tvg-chno="1235",Pluto TV Fantastic
+#EXTINF:-1 channel-id="samsung-USBA300017PK" tvg-id="USBA300017PK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300017PK_20241112T000721SQUARE.png" group-title="English Movies",Pluto TV Fantastic
 https://jmp2.uk/sam-USBA300017PK.m3u8
-#EXTINF:-1 channel-id="samsung-US18000163F" tvg-id="US18000163F" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20240716T002709SQUARE.png" group-title="Movies" tvg-chno="1237",Miramax Channel
+#EXTINF:-1 channel-id="samsung-US18000163F" tvg-id="US18000163F" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20240716T002709SQUARE.png" group-title="English Movies",Miramax Channel
 https://jmp2.uk/sam-US18000163F.m3u8
-#EXTINF:-1 channel-id="samsung-USAJ26000054W" tvg-id="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20241112T000713SQUARE.png" group-title="Movies" tvg-chno="1250",Paramount Movie Channel
+#EXTINF:-1 channel-id="samsung-USAJ26000054W" tvg-id="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20241112T000713SQUARE.png" group-title="English Movies",Paramount Movie Channel
 https://jmp2.uk/sam-USAJ26000054W.m3u8
-#EXTINF:-1 channel-id="samsung-USBD700011RE" tvg-id="USBD700011RE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20240520T222902SQUARE.png" group-title="Movies" tvg-chno="1260",Gravitas Movies
+#EXTINF:-1 channel-id="samsung-USBD700011RE" tvg-id="USBD700011RE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20240520T222902SQUARE.png" group-title="English Movies",Gravitas Movies
 https://jmp2.uk/sam-USBD700011RE.m3u8
-#EXTINF:-1 channel-id="samsung-USBC3900018K6" tvg-id="USBC3900018K6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900018K6_20240520T223400SQUARE.png" group-title="Movies" tvg-chno="1265",MyTime Movie Network
+#EXTINF:-1 channel-id="samsung-USBC3900018K6" tvg-id="USBC3900018K6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900018K6_20240520T223400SQUARE.png" group-title="English Movies",MyTime Movie Network
 https://jmp2.uk/sam-USBC3900018K6.m3u8
-#EXTINF:-1 channel-id="samsung-USAJ30000122O" tvg-id="USAJ30000122O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000122O_20241014T232143SQUARE.png" group-title="Movies" tvg-chno="1275",NEW KMOVIES
+#EXTINF:-1 channel-id="samsung-USAJ30000122O" tvg-id="USAJ30000122O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000122O_20241014T232143SQUARE.png" group-title="English Movies",NEW KMOVIES
 https://jmp2.uk/sam-USAJ30000122O.m3u8
-#EXTINF:-1 channel-id="samsung-USAJ3000007MT" tvg-id="USAJ3000007MT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20240520T222716SQUARE.png" group-title="Movies" tvg-chno="1285",Maverick Black Cinema
+#EXTINF:-1 channel-id="samsung-USAJ3000007MT" tvg-id="USAJ3000007MT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20240520T222716SQUARE.png" group-title="English Movies",Maverick Black Cinema
 https://jmp2.uk/sam-USAJ3000007MT.m3u8
 
 ## Music
@@ -124,15 +124,15 @@ https://jmp2.uk/sam-USAJ3000007MT.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Hindi Music" group-title="",9XM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png" group-title="Hindi Music",9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://rawcomthubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="Hindi Music" group-title="",9X Jalwa
+#EXTINF:-1 tvg-logo="https://rawcomthubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="Hindi Music",9X Jalwa
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png"group-title="Hindi Music" group-title="",E24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png"group-title="Hindi Music",E24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi Music" group-title="",8XM
+#EXTINF:-1 tvg-logo=""group-title="Hindi Music",8XM
 http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi Music" group-title="",Show Box
+#EXTINF:-1 tvg-logo=""group-title="Hindi Music",Show Box
 https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="Hindi Music",Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
@@ -156,33 +156,29 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS",Sky News
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS" tvg-logo=" ",CNN News
+#EXTINF:-1 tvg-logo="" group-title="NEWS",CNN News
 https://live-manifests-lln.warnermediacdn.com/csmp/cmaf/live/2028716/cnnfast-international/master_de.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="NEWS",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
-#EXTINF:-1 tvg-logo="" group-title="NEWS" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="NEWS",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS", FOX News (AU) 🛜
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS",FOX News (AU) 🛜
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M7W5zRy/images.png" group-title="NEWS", RT News (EN) 🛜
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7W5zRy/images.png" group-title="NEWS",RT News (EN) 🛜
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M7W5zRy/images.png" group-title="NEWS", RTNEWS GLOBAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7W5zRy/images.png" group-title="NEWS",RTNEWS GLOBAL
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M7W5zRy/images.png" group-title="NEWS", RT NEWS USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7W5zRy/images.png" group-title="NEWS",RT NEWS USA
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tv1pgrG/download-4.png" group-title="NEWS", CNBC Indonesia (EN) 🛜
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tv1pgrG/download-4.png" group-title="NEWS",CNBC Indonesia (EN) 🛜
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3fHPbTH/images.jpg" group-title="NEWS", CGTN News (EN) 🛜
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fHPbTH/images.jpg" group-title="NEWS",CGTN News (EN) 🛜
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS",Iran International(EN) 🛜
-https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS",Iran International News tv 
-https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
-#EXTINF:-1 tvg-logo="http://test-otv1.ftpbd.net/channel-logo/al%20jazeera.jpg"" group-title="NEWS", Aljazeera HD 🛜
+#EXTINF:-1 tvg-logo="http://test-otv1.ftpbd.net/channel-logo/al%20jazeera.jpg"" group-title="NEWS",Aljazeera HD 🛜
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS", Aljazeera HD Backup 🛜
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS",Aljazeera HD Backup 🛜
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS", Aljazeera HD Backup 🛜v
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS",Aljazeera HD Backup 🛜v
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png" group-title="NEWS", DW English 📶_📺
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png" group-title="NEWS",DW English 📶_📺
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
