@@ -19,15 +19,54 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 tvg-logo="https://styles.redditmedia.com/t5_2qhqk/styles/communityIcon_ixophh05g9x01.jpg?format=pjpg&s=aa0e33c1d9bd899eb8bc8eb3e8066b727ba95723" group-title="Hindi Movies",Bollywood Classic HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Bollywood
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png" group-title="Hindi Movies",Colors Cineplex Bollywood
 http://172.105.123.238:18002/play/a011
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Pictures HD
+#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",GoldMine Bollywood
+http://172.105.123.238:18002/play/a012
+#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",STAR GOLD THRILLS
+http://172.105.123.238:18002/play/a01h
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png" group-title="Hindi Movies",And Pictures HD
 https://la.drmlive.au/tp/zee-pictures.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Zee Cinema HD
+https://la.drmlive.au/tp/zee-zeecinema.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Colors CINEPLEX
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6592/index.m3u8
+#EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/ZeeAction.png" group-title="Hindi MOVIE",ZEE ACTION HD
+https://la.drmlive.au/tp/zee-zeeaction.m3u8
+#EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/ZeeAnmolcinema.png" group-title="Hindi MOVIE",ZEE ANMOL CINEMA
+https://la.drmlive.au/tp/zee-zeeanmolcinema.m3u8
+#EXTINF:-1 group-title="Hindi MOVIE",Zee Action
+https://la.drmlive.au/tp/zee-zeeaction.m3u8
+#EXTINF:-1 tvg-name="SETMAX HD" tvg-logo="https://sunplex.net/iptv/logo/set-max-hd.jpg" group-title="Hindi Movies",SONY MAX HD
+http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
+
+# Food
+#EXTINF:-1 group-title="Food",Zee Zest
+https://la.drmlive.au/tp/zee-348.m3u8
 
 # TV Channels
 
 #EXTINF:-1 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="Hindi Entertainment",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="ANDTV HD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="Hindi Entertainment",ANDTV HD
+https://webott.viatv.com.np/v0t1/AndtvHD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="COLORS SD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="Hindi Entertainment",COLORS SD
+http://stvlive.net:8080/colorshd/index.m3u8
+#EXTINF:-1 tvg-name="Colors HD" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="Hindi Entertainment",Colors HD
+http://port.yuvraj49.xyz/jc-colors-hd/video.m3u8?token=4dv7J9pr60BQ63
+
+#EXTINF:-1 tvg-name="SONY HD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="Hindi Entertainment",SONY HD
+http://gcp-dash.ngslbs.com/TVD048/index.mpd
+
+#EXTINF:-1 tvg-name="SONY SAB HD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="Hindi Entertainment",SONY SAB HD
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2964.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment",Zee HD
+https://la.drmlive.au/tp/zee-zeetvhd.m3u8
+#EXTINF:-1 tvg-name="UTSAB PLUS HD"t tvg-logo "" group-title="UK",UTSAB PLUS HD
+http://gcp-dash.ngslbs.com/TVD044/index.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png" group-title="Hindi Entertainment",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 channel-id="samsung-INBD4700006JD" tvg-id="INBD4700006JD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700006JD_20241024T054052SQUARE.png" group-title="Hindi Entertainment",Comedy King
@@ -73,6 +112,10 @@ http://103.81.104.118/hls/stream8.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wwjYcn0/20240721-201902.png" group-title="English Movies",Zee Cafe HD
+https://la.drmlive.au/tp/zee-zeecafehd.m3u8
+#EXTINF:-1 tvg-name="SONY PIX HD" tvg-logo="https://sunplex.net/iptv/logo/sony-pix-hd.jpg" group-title="English Movies",SONY PIX HD
+http://212.102.34.8:9080/SonyPixHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" group-title="English Movies",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 channel-id="samsung-INBA5100027U2" tvg-id="INBA5100027U2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100027U2_20220427T054556SQUARE.png_20220427054557.png" group-title="English Movies",Film Stream
