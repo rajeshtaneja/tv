@@ -418,11 +418,3 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/j2yTNKd5/Background-Eraser-20240628-135901528.png" group-title="Sports", Willow HD
 https://indian-proxy.worldwidempd.workers.dev/proximity.php?key=mominRocks&c=willowusa&e=.m3u8
 
-# VOD
-#EXTINF:-1 tvg-id="" tvg-name="EN: Mortal " tvg-logo="https://image.tmdb.org/t/p/original/8yhtzsbBExY8mUct2GOk4LDDuGH.jpg" group-title="VOD English",EN: Mortal
-#EXT-X-PLAYLIST-TYPE:VOD
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/210502.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="EN: Romantic Comedy " tvg-logo="https://image.tmdb.org/t/p/original/zCSjNKUWq9oZTlFDEDyO9ydj85T.jpg" group-title="VOD English",EN: Romantic Comedy
-#EXT-X-PLAYLIST-TYPE:VOD
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/210506.mkv
