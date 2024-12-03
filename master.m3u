@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 ,Master Playlist
+https://raw.githubusercontent.com/rajeshtaneja/tv/refs/heads/main/tv.m3u
+https://raw.githubusercontent.com/rajeshtaneja/tv/refs/heads/main/vod.m3u
