@@ -7,16 +7,13 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #EXTINF:-1 tvg-name="SETMAX HD" tvg-logo="https://sunplex.net/iptv/logo/set-max-hd.jpg" group-title="Hindi Movies",SONY MAX HD
 http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/push.m3u8?id=144
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f4/Sony_Max_2_new_logo.png" group-title="Hindi Movies", Sony Max 2
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/push.m3u8?id=148
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies", Zee Cinema HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 https://la.drmlive.au/tp/zee-zeecinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QWJcgtm/images-removebg-preview.png" group-title="Hindi Movies",Zee Bollywood
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="TOFFEE", B4U MOVIES 	
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="Hindi Movies", B4U MOVIES 	
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://styles.redditmedia.com/t5_aiv80i/styles/communityIcon_tixlj149ztac1.png" group-title="Hindi Movies",BOLLYWOOD PRIME
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
@@ -79,9 +76,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 ################################ Food ################################
-#EXTINF:1 group-title="Food",Zee Zest
+#EXTINF:-1 group-title="Food",Zee Zest
 https://la.drmlive.au/tp/zee-348.m3u8
-EXTINF:2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Food", Food Network
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Food", Food Network
 https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
 
 ################################ Pakistan ################################
