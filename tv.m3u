@@ -75,6 +75,9 @@ https://la.drmlive.au/tp/zee-tvhd_0.m3u8
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_wah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="Hindi Entertainment", SONY YAY 	
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_yay/playlist.m3u8
+#EXTINF:-1 tvg-id="default" tvg-logo="https://i.imghippo.com/files/lmNY9214wbs.png" group-title="Hindi Entertainment",SONY SAB INDIA SPECIAL
+https://fifabd.xyz/OPLLX/play.m3u8?id=221256|Referer=RANAPK
+
 ################################ COLORS
 #EXTINF:-1 tvg-name="Colors HD" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="Hindi Entertainment",Colors HD
 http://port.yuvraj49.xyz/jc-colors-hd/video.m3u8?token=4dv7J9pr60BQ63
@@ -82,8 +85,26 @@ http://opplex.tv:8080/live/15155419/16175512/109947.m3u8
 ################################ ZEE
 #EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment",Zee HD
 https://la.drmlive.au/tp/zee-zeetvhd.m3u8
+################################ STAR
+#EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="http://logo.protv.cc/picons/logos/logos/starbharat.png" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="Hindi Entertainment",STAR BHARAT ⁴ᴷ
+http://tv.cloudcdn.me:80/live.ts?channelId=195&uid=7045&deviceMac=00:1A:79:0A:3B:36
 
 ################################ OTHERS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88kwdkW/EN-IN-TGIKS-S2-GOLF-CART-1x1-s-RGB-2-1.jpg" group-title="Hindi Entertainment",The Kapil Sharma Show ᴴᴰ
+https://pixeldrain.com/api/file/Ro4QKEQa
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/vR44b1728475546.jpg" group-title="Hindi Entertainment",BIGG BOSS OTT LIVE ᴴᴰ
+https://prod-ent-live-cf.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_24x7_bbhindi_s18_day03/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/Ytch1152k.JPG" group-title="Hindi Entertainment",CID SPECIAL
+https://fifabd.xyz/OPLLX/play.m3u8?id=340873|Referer=RANAPK
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/RygI9993Kd.png" group-title="Hindi Entertainment",THE KAPIL SHARMA SHOW SPECIAL
+https://fifabd.xyz/OPLLX/play.m3u8?id=342075|Referer=RANAPK
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/DcY9574IHE.JPG" group-title="Hindi Entertainment",CRIME PATROL SHATRAK SPECIAL
+https://fifabd.xyz/OPLLX/play.m3u8?id=345742|Referer=RANAPK 
+
 #EXTINF:-1 channel-id="samsung-INBD4700006JD" tvg-id="INBD4700006JD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700006JD_20241024T054052SQUARE.png" group-title="Hindi Entertainment",Comedy King
 https://jmp2.uk/sam-INBD4700006JD.m3u8
 #EXTINF:-1 channel-id="samsung-IN2600013B3" tvg-id="IN2600013B3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600013B3_20240925T102252SQUARE.png" group-title="Hindi Entertainment",Fully Faltoo
